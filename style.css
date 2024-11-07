@@ -234,3 +234,52 @@ ul {
     width: 580px;
     height: 386px;
 }
+
+.prefinish{
+    margin-top: 96px;
+}
+
+.prefinish__container{
+    display: flex;
+    align-items: center;
+    gap: 160px;
+}
+
+.prefinish__img{
+    width: 579px;
+    height: 386px;
+}
+
+.prefinish__box{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.prefinish__text{
+    color: rgb(166, 168, 173);
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.prefinish__title{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: right;
+}
+
+.prefinish__info{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: right;
+}
