@@ -283,3 +283,65 @@ ul {
     line-height: 24px;
     text-align: right;
 }
+
+.middle{
+    margin-top: 95px;
+}
+
+.middle__container{
+    display: flex;
+    align-items: center;
+    gap: 240px;
+}
+
+.middle__box{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.middle__text{
+    color: rgb(166, 168, 173);
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    margin-bottom: 5px;
+}
+
+.middle__title{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-bottom: 12px;
+}
+
+.middle__info{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 18px;
+}
+
+.middle__btn{
+    border-radius: 8px;
+    background: rgb(0, 51, 255);
+    border: 1px solid transparent;
+    width: 140px;
+    height: 36px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
+
+.middle__img{
+    width: 580px;
+    height: 386px
+}
